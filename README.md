@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/the-red-eye-studio/the-red-eye-studio/blob/main/ezgif-3-6abf136038.gif' alt = 'Crypto code stuff 😎' align='right'/>
 
-[![Gmail Badge](https://img.shields.io/badge/-theredeyestudio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theredeyestudio@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Red%20EYE%20STUDIO-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCQ1THx3YgX6tuId3VbwTbbg)
+[![Gmail Badge](https://img.shields.io/badge/-theredeyestudio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theredeyestudio@gmail.com)](mailto:theredeyestudio@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Red%20EYE%20STUDIO-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCQ1THx3YgX6tuId3VbwTbbg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-red-eye-studio"/> </p>
 
 <div style="text-align: right"> I'm much more confident with crypto than with banks or fiat currency because I can actually control it, and the money supply is transparent, stated up front. </div>
