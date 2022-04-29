@@ -37,9 +37,9 @@
 		return Klaipeda_Lithuania()
 	
 	def Ambitions():
-		Grow-UP()
-		Make-INFO-accessible_to-everyone()
-		Get-A-decent_gig()
+		Make_a_crypto()
+                Learn_Go()
+		Get_A_decent_gig()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
@@ -47,6 +47,7 @@
 ## Current Works
  * I'm currently working on Optical Bitcoin [oBTC] as a community dev.
  * A maintained minecraft bitcoin broker
+ * Contributing to Siricoin
  
 ## Other Stuff
   - Feel free to post feedback and ask me to make something, I'm bored lol
