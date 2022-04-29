@@ -49,10 +49,12 @@
  * A maintained minecraft bitcoin broker
  * Contributing to Siricoin
  
+![Red's github stats](https://github-readme-stats.vercel.app/api?username=the-red-eye-studio&show_icons=true&hide=[%22issues%22])
+
 ## Other Stuff
   - Feel free to post feedback and ask me to make something, I'm bored lol
 
-![Red's github stats](https://github-readme-stats.vercel.app/api?username=the-red-eye-studio&show_icons=true&hide=[%22issues%22])
+
  
 
 
