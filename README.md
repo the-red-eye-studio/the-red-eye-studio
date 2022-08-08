@@ -38,7 +38,7 @@
 	
 	def Ambitions():
 		Make_a_crypto()  
-                Learn_Go()  
+		Learn_Go()  
 		Get_A_decent_gig()   
 		# Assume 10 more awesome ambitions here  ;)  
 	
