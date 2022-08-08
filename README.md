@@ -45,9 +45,7 @@
  ```
  
 ## Current Works
- * I'm currently working on Optical Bitcoin [oBTC] as a community dev.
- * A maintained minecraft bitcoin broker
- * Contributing to Siricoin
+ * Developing [Sirious]("https://discord.gg/ERuNPtgNXZ")
  
 ![Red's github stats](https://github-readme-stats.vercel.app/api?username=the-red-eye-studio&show_icons=true&hide=[%22issues%22])
 
