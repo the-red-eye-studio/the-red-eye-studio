@@ -50,7 +50,7 @@
 ![Red's github stats](https://github-readme-stats.vercel.app/api?username=the-red-eye-studio&show_icons=true&hide=[%22issues%22])
 
 ## Other Stuff
-  - Feel free to post feedback and ask me to make something, I'm bored ¯\_(ツ)_/¯
+  - Feel free to post feedback and ask me to make something, I'm bored lol
 
 
  
