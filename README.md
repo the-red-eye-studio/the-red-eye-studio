@@ -46,6 +46,7 @@
  
 ## Current Works
  * Developing [Sirious]("https://discord.gg/ERuNPtgNXZ")
+ * Working on a DJ song suggestion system (Client, DJ, Server end)
  
 ![Red's github stats](https://github-readme-stats.vercel.app/api?username=the-red-eye-studio&show_icons=true&hide=[%22issues%22])
 
