@@ -25,7 +25,7 @@
  ```python
  class WhoAmI:
  	user = 'Gustas Savickas'
-		current_edu = "6th grade"
+		current_edu = "7th grade"
 		hobbies = [
 				"Programming",
 				"DJ'ing",
