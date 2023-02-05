@@ -23,7 +23,7 @@
  
  ## Who am I?
  ```python
- class WhoAmI:
+class WhoAmI:
  	user = 'Gustas Savickas'
 	discord = 'The Red Eye Studio#6616'
 	current_edu = "7th grade"
