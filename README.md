@@ -15,7 +15,7 @@
 * Firebase
 * Backend Web Development
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=the-red-eye-studio&layout=compact&bg_color=ffffff00">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=the-red-eye-studio&layout=compact&bg_color=ffffff00&text_color=666666">
 
 ## Programming Languages 
 <img src = 'https://github.com/the-red-eye-studio/the-red-eye-studio/blob/main/c--4.svg' height='30'/> <img src = 'https://stickers.wiki/static/stickers/windows95/file_176956.webp?ezimgfmt=rs:134x134/rscb1/ng:webp/ngcb1g' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
@@ -50,7 +50,7 @@ class WhoAmI:
  * Developing a decentralized python cryptocurrency ([Madzcoin](https://discord.gg/U9B4tUDYTk))
  * Working on bringing DJing gear to everyone! (Cuecumber DJ)
  
-![Red's github stats](https://github-readme-stats.vercel.app/api?username=the-red-eye-studio&show_icons=true&bg_color=ffffff00)
+![Red's github stats](https://github-readme-stats.vercel.app/api?username=the-red-eye-studio&show_icons=true&bg_color=ffffff00&text_color=666666)
 
 ## Other Stuff
   - Feel free to post feedback and ask me to make something, I'm bored lol
