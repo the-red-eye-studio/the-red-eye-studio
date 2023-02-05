@@ -25,19 +25,20 @@
  ```python
  class WhoAmI:
  	user = 'Gustas Savickas'
-		current_edu = "7th grade"
-		hobbies = [
-				"Programming",
-				"DJ'ing",
-				"Crypto mining"
-				"Being up all Night chasing that ONE BUG..."
-			]
+	discord = 'The Red Eye Studio#6616'
+	current_edu = "7th grade"
+	hobbies = [
+		"Programming",
+		"DJ'ing",
+		"Crypto mining"
+		"Being up all Night chasing that ONE BUG..."
+		]
 	
 	def getCity():
 		return Klaipeda_Lithuania()
 	
 	def Ambitions():
-		Make_a_crypto()  
+		Develop_custom_djing_hw()
 		Learn_Go()  
 		Get_A_decent_gig()   
 		# Assume 10 more awesome ambitions here  ;)  
@@ -45,8 +46,8 @@
  ```
  
 ## Current Works
- * Developing [Sirious]("https://discord.gg/t2skN2BXyH") (A fork of siricoin, aiming to drop all low power BS and actually implment P2P)
- * Working on a DJ song suggestion system (Client, DJ, Server end)
+ * Developing a decentralized python cryptocurrency ([Madzcoin](https://discord.gg/U9B4tUDYTk))
+ * Working on bringing DJing gear to everyone! (Cuecumber DJ)
  
 ![Red's github stats](https://github-readme-stats.vercel.app/api?username=the-red-eye-studio&show_icons=true&hide=[%22issues%22])
 
