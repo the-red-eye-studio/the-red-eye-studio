@@ -1,8 +1,8 @@
-## Heyo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-
+## Heyo! 👋
+<img style = "width: 80%; height: auto; align: right" src = 'https://github.com/the-red-eye-studio/the-red-eye-studio/blob/main/ezgif-3-6abf136038.gif' alt = 'Crypto code stuff 😎' align='right'/>
 <h2>Welcome to my humble abode in the Digital World..</h2> 
 
-<img src = 'https://github.com/the-red-eye-studio/the-red-eye-studio/blob/main/ezgif-3-6abf136038.gif' alt = 'Crypto code stuff 😎' align='right'/>
+
 
 [![Gmail Badge](https://img.shields.io/badge/-theredeyestudio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theredeyestudio@gmail.com)](mailto:theredeyestudio@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Red%20EYE%20STUDIO-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCQ1THx3YgX6tuId3VbwTbbg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-red-eye-studio"/> </p>
@@ -15,10 +15,18 @@
 * Firebase
 * Backend Web Development
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=the-red-eye-studio&layout=compact&bg_color=ffffff00&text_color=666666">
+<p float="left">
+  <img  style = "display: grid; grid-template-columns: 1fr 1fr 1fr; column-gap: 5px; height: 195px; width: auto;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=the-red-eye-studio&layout=compact&bg_color=ffffff00&text_color=666666">  
+<img style = "display: grid; grid-template-columns: 1fr 1fr 1fr; column-gap: 5px;" src = "https://github-readme-stats.vercel.app/api?username=the-red-eye-studio&show_icons=true&bg_color=ffffff00&text_color=666666"> 
+</p>
+
+
+
+ 
+
 
 ## Programming Languages 
-<img src = 'https://github.com/the-red-eye-studio/the-red-eye-studio/blob/main/c--4.svg' height='30'/> <img src = 'https://stickers.wiki/static/stickers/windows95/file_176956.webp?ezimgfmt=rs:134x134/rscb1/ng:webp/ngcb1g' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+<img src = 'https://github.com/the-red-eye-studio/the-red-eye-studio/blob/main/c--4.svg' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://www.cpark.in/wp-content/uploads/2021/04/arduino-4-569256.png' height='30'/>
  
  ## Who am I?
@@ -50,7 +58,6 @@ class WhoAmI:
  * Developing a decentralized python cryptocurrency ([Madzcoin](https://discord.gg/U9B4tUDYTk))
  * Working on bringing DJing gear to everyone! (Cuecumber DJ)
  
-![Red's github stats](https://github-readme-stats.vercel.app/api?username=the-red-eye-studio&show_icons=true&bg_color=ffffff00&text_color=666666)
 
 ## Other Stuff
   - Feel free to post feedback and ask me to make something, I'm bored lol
