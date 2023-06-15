@@ -57,7 +57,6 @@ class WhoAmI:
  * Zeppellin - A timetable and chat room for my school.
  * Cuecumber DJ - An organization, dedicated to developing open source DJ hardware and software.
  * rFMEx - A PCB which would be integrated inside of DMX lights, would be able to communicate over 315/433 MHz RF and WiFi. Sync with music, control with MIDI and mobile.
- * 
 
 
 Forked from [MarikIshtar007's readme](https://github.com/MarikIshtar007/MarikIshtar007/blob/master/README.md)
