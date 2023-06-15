@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-theredeyestudio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theredeyestudio@gmail.com)](mailto:theredeyestudio@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Red%20EYE%20STUDIO-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCQ1THx3YgX6tuId3VbwTbbg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-red-eye-studio"/> </p>
 
-<div style="text-align: right"> I'm much more confident with crypto than with banks or fiat currency because I can actually control it, and the money supply is transparent, stated up front. </div>
+<div style="text-align: right"> Hello! I'm The Red Eye Studio! A self-taught developer, based in Lithuania. I enjoy learning new concepts, contributing to my favorite ones. Looking forward to collaborate! </div>
 
 ## :computer: Technologies I Love
 * Crypto
@@ -39,32 +39,25 @@ class WhoAmI:
 	hobbies = [
 		"Programming",
 		"DJ'ing",
-		"Crypto mining"
-		"Being up all Night chasing that ONE BUG..."
+		"Crypto mining",
+		"hw. hacking",
+		"Being up all night chasing that ONE BUG..."
 		]
 	
-	def getCity():
+	def getLocation():
 		return Klaipeda_Lithuania()
 	
 	def Ambitions():
-		Develop_custom_djing_hw()
-		Learn_Go()  
-		Get_A_decent_gig()   
-		# Assume 10 more awesome ambitions here  ;)  
+		pass
+		# Assume 10 more awesome ambitions here 💀  
 	
  ```
  
 ## Current Works
- * Developing a decentralized python cryptocurrency ([Madzcoin](https://discord.gg/U9B4tUDYTk))
- * Working on bringing DJing gear to everyone! (Cuecumber DJ)
- 
-
-## Other Stuff
-  - Feel free to post feedback and ask me to make something, I'm bored lol
-
-
- 
-
+ * Zeppellin - A timetable and chat room for my school.
+ * Cuecumber DJ - An organization, dedicated to developing open source DJ hardware and software.
+ * rFMEx - A PCB which would be integrated inside of DMX lights, would be able to communicate over 315/433 MHz RF and WiFi. Sync with music, control with MIDI and mobile.
+ * 
 
 
 Forked from [MarikIshtar007's readme](https://github.com/MarikIshtar007/MarikIshtar007/blob/master/README.md)
