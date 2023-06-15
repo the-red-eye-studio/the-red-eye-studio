@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-theredeyestudio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theredeyestudio@gmail.com)](mailto:theredeyestudio@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Red%20EYE%20STUDIO-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCQ1THx3YgX6tuId3VbwTbbg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-red-eye-studio"/> </p>
 
-<div style="text-align: right"> Hello! I'm The Red Eye Studio! A self-taught developer, based in Lithuania. I enjoy learning new concepts, contributing to my favorite ones. Looking forward to collaborate! </div>
+<div style="text-align: right"> Hello! I'm The Red Eye Studio! A self-taught developer, based in Lithuania. I enjoy learning new concepts, contributing to my favorite projects. Looking forward to collaborate! </div>
 
 ## :computer: Technologies I Love
 * Crypto
