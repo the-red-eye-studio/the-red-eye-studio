@@ -1,11 +1,11 @@
 ## Heyo! 👋 Welcome to my relatively humble space of the interwebs 🙂
-<img style = "width: 18%;  align: right" src = 'https://github.com/the-red-eye-studio/the-red-eye-studio/assets/75716744/f573ee28-21de-4c64-9d37-665cf1500fbe' alt = 'Crypto code stuff 😎' align='right'/>
+<img style = "width: 18%;  align: right" src = 'https://github.com/the-red-eye-studio/the-red-eye-studio/assets/75716744/f573ee28-21de-4c64-9d37-665cf1500fbe' alt = 'Very sexy boy (Hes handsome, unfortuanately, I am straight)' align='right'/>
 
 
 
 
 [![](https://komarev.com/ghpvc/?username=the-red-eye-studio)](https://github.com/the-red-eye-studio)
-[![Gmail Badge](https://img.shields.io/badge/-dj.sawicko@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dj.sawicko@gmail.com)](mailto:dj.sawicko@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Red%20EYE%20STUDIO-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCQ1THx3YgX6tuId3VbwTbbg)
+[![Gmail Badge](https://img.shields.io/badge/-dj.sawicko@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dj.sawicko@gmail.com)](mailto:dj.sawicko@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-DJ%20Sawicko-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCQ1THx3YgX6tuId3VbwTbbg)
 
 
 
