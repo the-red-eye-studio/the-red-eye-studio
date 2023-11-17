@@ -48,17 +48,17 @@ class WhoAmI:
         "Coping with humor, and excesive formality"]
 	
     def getLocation():
-	return Klaipeda_Lithuania()
+	    return Klaipeda_Lithuania()
 	
     def Ambitions():
-	return ["Become an audio, light engineer",
+	    return ["Become an audio, light engineer",
 	        "Learn more about digital audio signals, and their processing",
 	        "Start work, entrepreneurship early, and excel in life :)",
 	        "Find a way to utilize scriptting, and generate passive income",
 	        "Idk, just be the best version of me, and live life happily :)"]
 
     def Socials(): #TODO: Prevent function from being called from OSINT class
-	return {"Discord": "@dj_sawicko",
+	    return {"Discord": "@dj_sawicko",
 		"Youtube": "DJ Sawicko",
 		"Instagram": "@dj_sawicko",
 		"Snapchat": "@redeyestd",
